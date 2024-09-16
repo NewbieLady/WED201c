@@ -1,0 +1,16 @@
+Which of the following is NOT a fluid measurement?|px
+Responsive Web Design is...|Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules.
+Adaptive design with dynamic serving is....|Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) and returning the appropriate version based on the device making the page request.
+Which of the following is a true statement about using a separate "m." site for your content?|It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places.
+The mobile version of your web page should have the same layout of every other version of your site.|False
+Which fluid measurement type returns a percentage of the viewport height?|vh
+When defining a measurement whitespace cannot appear between the number and the unit unless the value is 0.|True
+For some CSS properties, negative lengths are allowed.|True
+1 _____ = 1% of viewport width|vw
+An em is the size of an uppercase M in any typeface, making the size relative to the font.|True
+Which term matches the browser window size?|viewport
+Which suggestion does Chris Coyier make in his article on Font Size?|px at the Root, rem for Components, em for Text Elements
+If you have an element with the font size of 15px, and a child element inside with a font-size set to 3em, what is the font size of the child in px? (Provide a number only, not the measurement too.)|45
+Which of the following measurements is relative to the size of its parent element?|em
+Which measurement is easier and comfortable for the designer/ developer to use when coding their CSS but does not provide the best experience for the user?|px
+In tech when something is "deprecated" it means|software developers are no longer actively supporting it, so its use is discouraged.

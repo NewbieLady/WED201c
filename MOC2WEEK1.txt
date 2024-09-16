@@ -1,0 +1,29 @@
+DOM stands for:|Document object model
+HTML is organized into what type of structure?|tree
+There can be only one <body> element in a document.|True
+Which two visual elements appear in the <head> section of the HTML?|title and favicon
+Which website provides a validation tool for checking the syntax of your HTML code?|https://validator.w3.org/
+The HTML5 headings are block-level elements.|True
+Attributes consist of a name and a value connected by which symbol(s)?|=
+Whitespace added to an HTML document between span-level elements will generally be ignored by the browser and are not added to increase spacing on the rendered HTML page.|True
+The only element we can place as a direct child of the <ul> and <ol> elements is the <li> element.|True
+You can add comments to your HTML source by using the following syntax:|<!-- Write your comments here →
+Which semantic tag is used to identify a section of the page that links to other pages or to parts within the page?|nav
+Which semantic tag specifies independent, self-contained content?|article
+What is the correct HTML for inserting an image?|<image src="images/logo.gif" alt="logo">
+Which HTML attribute specifies descriptive text for an image if the image cannot be displayed? (Select all that apply.)|alt
+It is good practice to start all of your alt text with "Image of a ..." followed by a description.|False
+When setting an alt attribute for a non-essential image you should:|use the empty string
+You should use the alt attribute on icons.|False
+Which of the following are sources that were recommended in the Finding Usable Materials reading? (Note, you must select all correct answers to get full credit)|Wikimedia Commons$Pixabay$Openverse$Flickr$Unsplash
+What is a potential issue when using both a height and width attribute on an image?|The image may appear skewed if the change in the height isn't proportional to the change in the width
+Which attribute on an <a> anchor element specifies whether a hyperlink should be opened in the same window or a new one?|target
+The anchor element <a> can create hyperlinks to different parts of the same HTML document.|True
+All links should be in the <nav> element.|False
+The line break element requires only an opening tag and must not have a closing tag.|True
+When deciding between using an h2 heading or an h3 heading you should base your decision on how big you want the text to be. You may need to review earlier Week 1 material about HTML5 Tags.|False
+Which attribute references the location of new content in an anchor tag?|href
+A local link (a link to a page within the same website) is specified with a relative URL, i.e without any "https://www" at the front.|True
+A relative URL can link to which of the following:|a local file in the same folder
+Have you been typing in the code as we go along?|ccccc
+Can you think of other reasons that alternative text is important in your code?|ccccc

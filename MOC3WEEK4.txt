@@ -1,0 +1,19 @@
+Which of the following is NOT a fluid measurement|px
+The mobile version of your web page should have the same layout of every other version of your site.|False
+Which fluid measurement type returns a percentage of the viewport height?|vh
+When defining a measurement whitespace cannot appear between the number and the unit unless the value is 0.|True
+Which of the following measurements is relative to the size of its parent element?|em
+If you have an element with the font size of 24px, and a child element inside with a font-size set to .5em, what is the font size of the child in px? (Provide a number only, not the measurement too.)|12
+HTML5 introduced a method to let web designers take control over the viewport. The new tag is the ______ tag.|meta
+Which of the following should you NOT do when creating a responsive page?|None of the above
+You can use media queries to change the layout of your page when the orientation of a mobile device changes from portrait to landscape.|True
+Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 10 div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 350px screen?|80%
+Consider the following CSS rules: 8 } Which of the following is a true statement?|The div elements will have a width of 25% only when the page is printed
+Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 @media all and (min-width: 500px){ div{ width: 25%; } } div{ width: 80%; } What is the width of any div elements on a 750px screen?|80%
+Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 750px screen?|25%
+Consider the following code using Bootstrap: 1 <div class = "col-md-3 col-lg-7"> In a md viewport the div will be _____ columns wide.|3
+Bootstrap is mobile-first.|True
+Every major web browser supports reduce-motion, including Chrome, Edge, Firefox, Safari, and Opera.|True
+The default value for (prefers-reduced-motion) without is "reduce".|True
+The possible values for the prefers-contrast CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer - prefers-contrast - CSS: Cascading Style Sheets | MDN .)|True
+The possible values for the prefers-color-scheme CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer - prefers-color-scheme - CSS: Cascading Style Sheets | MDN .)|False

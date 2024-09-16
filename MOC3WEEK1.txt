@@ -1,0 +1,23 @@
+When you open a webpage in Chrome it may look slightly different if opened in a different browser.|True
+W3C stands for:|World Wide Web Consortium
+Which of the following is part of a URL?|domain (or host) and protocol
+A single web page may require several iterations of the Request-Response Cycle.|True
+Which of these tags breaks the tenet of the separation of content and layout?|font
+Which of the following are browsers?|Safari, Chrome, Edge
+Which of the following filename is using camel case?|myFirstFile.html
+HTML5 headings come in how many different rankings?|6
+Which element creates a bulleted list?|ul
+It is good practice to start all of your alt text with "Image of a ..." followed by a description.|False
+A screen reader will automatically provide a visual description of icons.|False
+Which of the following are recommended sources for finding images for diverse audiences? (You must select all that apply for full credit.)|Disabled and Here$PICNOI
+What is the lowest level HTML heading element?|h6
+A relative reference includes the URL protocol in the href.|False
+The acronym for the four principles of accessibility is:|POUR
+What does View Source do?|Displays the contents of the file.
+The role of a web accessibility coordinator includes which of the following? (You must select all that apply.)|Helps guide policy and purchasing decisions$Evaluates web interfaces for accessibility$Keep pace with changing technology
+Which of the following can affect the visual accessibility of your site? (Select all that apply.)|font size$color contrast$font family
+In addition to being the right thing to do, efforts to create an accessible site will also improve your Search Engine Optimization.|True
+Adherence to standards is important when trying to improve accessibility.|True
+The Wave validator will detect if you have bad color contrast on your page.|True
+How well are people validating their code? Type the URL of some of your favorite sites into https://validator.w3.org/ . What types of errors do you see the most often?|vcxvxcvxcvxcv
+Submit the URLs again to the accessibility checker at https://wave.webaim.org/ . Do you see more or less errors than the w3 validator?|xcvxcvxcvxcv
