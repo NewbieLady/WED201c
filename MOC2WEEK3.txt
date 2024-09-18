@@ -1,15 +1,14 @@
 Which tag is used to let the browser know that it is about to see JavaScript code?|<script>
-Where can you put JavaScript?|In A), B) and C) above
+JavaScript code must be placed in the <head> section of the document.|False
 Which attribute is used to link to an external JavaScript file?|src; e.g., src = "extFile.js"
 Which word is used to define a function in JavaScript?|function
-Which of the following best defines the difference between defining a function and calling a function?|You can call a function without it being defined first.
+Which of the following best defines the difference between defining a function and calling a function?|You can define a function without calling it.
 A function can be called multiple times in a single file.|True
-You can define a function without calling it.|True
-One of the events that the JavaScript API will listen for is onpagereload.|False
+You can call a function without it being defined.|False
+One of the events that the JavaScript API will listen for is onload.|True
 You can use single quotes or double quotes when calling a function with an event.|True
 Consider the following code: 1 2 3 4 <body onload = "Hello()"> <p> This is paragraph one </p> <p onclick = "Hello()"> This is paragraph two </p> </body> The function Hello() will be called every time:|A and C
 Consider the following code: 1 2 3 4 <body> <p> This is paragraph one </p> <p onclick = "Hello()"> This is paragraph two </p> </body> The function Hello() will be called every time:|C) The user clicks on the second paragraph on the page
-What is syntactically wrong with this function definition? 1 2 3 4 function Hello();{ alert("Hello"); document.write("Hello on the screen"); }|The semicolon after Hello()
-Which is the correct syntax to change the contents of the HTML element below? <p id = "quiz">This is a quiz. </p>|document.getElementById('quiz').innerHTML = "New content!";
-In JavaScript, the this keyword refers to a(n):|Object
+What is syntactically wrong with this function definition? 4 }|The semicolon after Hello()
+The following is valid JavaScript code: <button onclick="this.style.display='none'">Click to Remove Me!</button>|True
 The following is valid JavaScript code: <button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>|True

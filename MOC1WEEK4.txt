@@ -3,7 +3,7 @@ Responsive Web Design is...|Designing pages for multiple platforms by incorporat
 Adaptive design with dynamic serving is....|Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) and returning the appropriate version based on the device making the page request.
 Which of the following is a true statement about using a separate "m." site for your content?|It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places.
 The mobile version of your web page should have the same layout of every other version of your site.|False
-Which fluid measurement type returns a percentage of the viewport height?|vh
+Responsive sites can have a mixture of fluid and absolute measurements.|True
 When defining a measurement whitespace cannot appear between the number and the unit unless the value is 0.|True
 For some CSS properties, negative lengths are allowed.|True
 1 _____ = 1% of viewport width|vw

@@ -1,7 +1,7 @@
-When a web page is loaded, the browser creates a Document Object Model of the page.|True
-JavaScript can remove existing HTML elements and attributes|True
+Every valid web page can be represented as a tree. This tree is referred to as the|DOM
+JavaScript can change all the HTML elements and HTML attributes in the page|True
 JavaScript uses what kind of interface to access the DOM structure?|an API
-Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)|document.getElementsById(idName)
+The querySelectorAll() method returns a collection of an element's child elements that match a specified CSS selector(s).|True
 You must include the # when selecting an id using the querySelector() method.|*A: True
 Unless you are writing multiple statements on the same line, you don't need to add a semicolon.|True
 Which of the following is not a valid method for generating output to the screen?|print
@@ -9,17 +9,16 @@ Which of these options does NOT require the use of parentheses?|innerHTML
 Which of the following does not generate output directly to the screen?|console.log(message);
 How does prompt differ from alert?|The prompt will return a value, alert does not.
 Variables allow you to save data.|True
-In JavaScript the keywords def is used to declare a variable.|False
+In JavaScript the keywords variable is used to declare a variable.|False
 What does it mean that variables are case-sensitive?|That the computer does not think that the variables name and Name are the same thing.
-Which of the following is not a valid variable name?|1variable
+Which of the following is not a valid variable name?|variable-2
 What does mnemonic mean?|That variable names should help describe the value being stored.
 What is wrong with this code? var name = "Mike"; "Colleen" = name;|This code is illegal and it doesn't make sense to have the non-variable "Colleen" (also called a constant) on the left-hand side of an assignment statement. Please review the lecture on Variables from Week 1.
-What value is stored in name if the person hits the Cancel button on a prompt? var name = prompt("What is your name?");|null
+What value is stored in name if the person hits the Okay button on a prompt before entering anything? var name = prompt("What is your name?");|an empty string ("")
 To create a String variable, use quotes around the value you want to save.|True
 When a function returns a node from the DOM, it is of type|Object
 A function that wants to return multiple values at once (such as document.getElementsByTagName) will return a/an|Array
 Which of the following is not a valid operator?|=+
 What value is returned by 9 % 5?|4
-What is the difference between == and === ?|The == operator only checks for equivalent values, not equivalent type too.
 What is the logical operator for AND?|&&
 If your browser supports debugging, you can use which of the following to display JavaScript values in the debugger window:|console.log

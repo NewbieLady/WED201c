@@ -1,13 +1,13 @@
-Which line of code gives the browser instructions on how to control the page's dimensions and scaling?|1 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-Which of the following code segments will keep people from being able to zoom in or out on your content?|1 2 <meta name = 'viewport' content='width=device-width, initial-scale=1, maximum-scale = 1'>
-Which of the following should you NOT do when creating a responsive page?|None of the above
-When designing mobile first you should use max-width in your media query.|False
-You can add as many breakpoints as you want.|True
-Breakpoints often correspond with common screen sizes for phones, tablets, and laptops, but it is not necessary.|True
+Which line of code gives the browser instructions on how to control the page's dimensions and scaling?|1 <meta name="stylesheet" content="width=device-width, initial-scale=1.0">
+Which of the following code segments will keep people from being able to zoom in or out on your content?|2
+Which of the following should you NOT do when creating a responsive page?|Let the content rely on a particular viewport width to render well
+When designing mobile first, instead of changing styles when the width gets smaller, we should change the design when the width gets larger.|True
+Which term is used to define the different viewport sizes that trigger media queries?|breakpoint
+When designing your site you should choose your breakpoints based on specific device sizes.|True
 You can use media queries to change the layout of your page when the orientation of a mobile device changes from portrait to landscape.|True
 Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 350px screen?|80%
-Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 750px screen?|25%
-Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 10 @media all and (min-width: 500px){ div{ width: 25%; } } div{ width: 80%; } What is the width of any div elements on a 750px screen?|80%
-Consider the following CSS rule: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media print { div{ width: 25%; } } Which of the following is a true statement?|The div elements will have a width of 25% only when the page is printed
-Wireframes should...|specify the layout of your pages
+Consider the following CSS rules: 8 9 4 5 6 7 1 2 3 } } @media all and (min-width: 500px){ div{ width: 25%; div{ width: 80%; } What is the width of any div elements on a 750px screen?|25%
+Consider the following CSS rules: 10 6 7 8 9 2 3 4 5 1 div{ width: 80%; } div{ width: 25%; } } @media all and (min-width: 500px){ What is the width of any div elements on a 750px screen?|80%
+Consider the following CSS rule: 8 9 4 5 6 7 1 2 3 } } @media print { div{ width: 25%; div{ width: 80%; } Which of the following is a true statement?|The div elements will have a width of 25% only when the page is printed
+Wireframes should...|specify the layout and content of your pages
 A key component of your wireframes should test|interaction

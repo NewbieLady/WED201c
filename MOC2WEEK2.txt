@@ -1,16 +1,16 @@
-The text-decoration property is used to style links with an underline. What text-decoration value will remove this underline from a link?|a { text-decoration: none; }
+Which property can remove the underline from links? (Only provide the property name; do not give it a value.)|text-decoration
 The list-style-type property applies to:|both ordered and unordered lists
 Descendant selectors nav a{ .... } are more specific than child selectors nav>a{ .... }|False
 The class selectors are part of the DOM|True
 What is true about this code? 1 <p class = "fancy box"> ....</p>|From this code, you can't know which styling will take precedence.
 This is probably a typo, why? 1 .body{ font-size: 16px; }|The period in front of the word body means the browser will look for a class called body, not the element.
 Not only can you use a # to style an element. You can also use it to create a destination for an anchor link..|True
-A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page.|True
+An id name can be used by multiple HTML elements, while a class name must only be used by one HTML element within the page.|False
 Both id and class names are case sensitive.|True
-Assume that this code is linked together correctly. 15 11 12 13 14 7 8 9 10 3 4 5 6 1 2 } .plain{ font-family: Times, serif; color: black; font-family: cursive; background: red; color: green; } background: black; } .fancy{ p{ color: yellow; 1 <p>Hi</p> What color font is used to display "Hi"?|yellow
-Assume that this code is linked together correctly. 15 11 12 13 14 7 8 9 10 3 4 5 6 1 2 } .plain{ font-family: Times, serif; color: black; font-family: cursive; background: red; color: green; } background: black; } .fancy{ p{ color: yellow; 1 <p class = "plain fancy">Hi</p> What color font is used to display "Hi"?|green
-Assume that this code is linked together correctly. 15 12 13 14 8 9 10 11 4 5 6 7 1 2 3 } .plain{ font-family: Times, serif; color: black; background: red; color: green; } } .fancy{ font-family: cursive; p{ color: red; background: black; 1 <p class = "fancy plain">Hi</p> What color font is used to display "Hi"?|black
-The style tag and the style attribute are interchangeable -- this means that you accomplish the same effect with both.|False
+Assume that this code is linked together correctly. 15 11 12 13 14 7 8 9 10 3 4 5 6 1 2 } .plain{ font-family: Times, serif; color: black; font-family: cursive; background: red; color: green; } background: black; } .fancy{ p{ color: yellow; 1 <p>Hi</p> What color font is used to display "Hi"?|black
+Assume that this code is linked together correctly. 8 9 10 11 12 13 14 15 background: red; color: green; } .plain{ font-family: Times, serif; color: black; } 1 <p class = "plain fancy">Hi</p> What color font is used to display "Hi"?|green
+Assume that this code is linked together correctly. 14 } 1 <p class = "style1 style2">Hi</p> What color font is used to display "Hi"?|green
+The styling contained in the style tag has precedence over the style attribute.|False
 Which CSS property controls the text size?|font-size
 How do you display hyperlinks without an underline?|a { text-decoration:none; }
 Using only a default style sheet..|will typically make your page look worse.

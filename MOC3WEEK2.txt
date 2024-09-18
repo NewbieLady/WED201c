@@ -1,7 +1,7 @@
 The default value for the position property is:|static
-What is wrong with this code? 4 1 2 3 } div{ position: relative; left: 10px;|The code works, but the left property is not necessary since relative elements don't allow offsets
+What is wrong with this code? 1 2 3 4 div{ position: relative; left: 10px; }|There is nothing wrong with this code.
 If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?|fixed
-Assume that this code is linked together correctly. 4 5 6 7 8 9 10 11 12 13 14 15 } .style1 { font-family: cursive; background: red; color: green; } .style2 { font-family: Times, serif; color: black; } 1 <p class = "style1 style2">Hi</p> What color font is used to display "Hi"?|black
+Assume that this code is linked together correctly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 p{ color: red; background: yellow; } .style1 { font-family: cursive; background: red; color: green; } .style2 { font-family: Times, serif; color: black; } 1 <p class = "style1 style2">Hi</p> What color font is used to display "Hi"?|black
 Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be placed in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE.|z-index
 The # symbol specifies that the selector is a/an|id
 What are the four principles of Accessibility?|POUR
@@ -11,10 +11,10 @@ Which of the following is the best way to convey that your text has special mean
 Skip to Main Content is a feature that:|Allows keyboard users to easily navigate your site.
 The margin is the space between elements.|True
 Padding is...|The space between an element and its border
-The padding and margin properties inherit their background colors from their parent elements.|False.
-How much horizontal space ("width") will this div use? 1 2 3 4 5 6 div{ width:50px; padding: 10px; margin: 5px; border: 2px; }|74px
-How much vertical space ("height") will this div use? 4 5 6 1 2 3 margin: 5px; border: 2px; } div{ height:50px; padding: 5px 10px;|69px
-In the following code snippet, what value is given for the right margin? margin: 5px 10px 3px 8px;|8px
-Which of the following would be used to create an id called button which has a width of 750px, a height of 30px and the color of the text is black?|4 5 1 2 3 color: black; } #button { height: 30px; width: 750px;
-How much width will this div occupy? 1 2 3 4 5 6 div{ width:100px; padding: 10px; margin: 5px; border: 2px; }|134px
-In the following code snippet, what value is given for the left margin? margin: 5px 10px 3px 8px;|5px
+The padding and margin properties can be styled with unique colors.|False.
+How much horizontal space ("width") will this div use? 1 2 3 4 5 6 div{ width:50px; padding: 10px; margin: 5px; border: 2px; }|84px
+How much vertical space ("height") will this div use? 4 5 6 margin: 5px; border: 2px; }|74px
+In the following code snippet, what value is given for the right margin? margin: 5px 10px 3px 8px;|10px
+Which of the following would be used to create an id called button which has a width of 750px, a height of 30px and the color of the text is black?|4 5 color: black; }
+How much width will this div occupy? 6 }|134px
+In the following code snippet, what value is given for the bottom margin? margin: 5px 10px 3px 8px;|3px

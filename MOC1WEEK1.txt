@@ -1,27 +1,27 @@
 What does HTML stand for?|Hypertext Markup Language
-When you open a webpage in Chrome it may look slightly different if opened in a different browser.|True
+Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsers.|False
 Read this question carefully since we are asking about things we want to avoid. HTML5 should **NOT**...|take advantage of the most up-to-date plugins.
-An HTML5 tag will always have the same semantic meaning, regardless of the browser being used.|True
+Which of the following best explains the difference between syntax and semantics?|A browser may have trouble displaying a page if the syntax is incorrect.
 W3C stands for:|World Wide Web Consortium
 The creation of HTML5 was a cooperation between many parties. Which of the following was NOT part of that cooperation?|DARPA
-What does HTTP stand for?|HyperText Transfer Protocol
-Which of the following is part of a URL?|domain (or host)
+HTTP stands for|Hypertext Transfer Protocol
+Which of the following is part of a URL?|protocol
 Which of the following is an example of a top-level domain?|.com
 The Domain Name Service looks up the domain and returns the:|IP address
 Which organization is responsible for assigning top-level domain names?|Internet Corporation for Assigned Numbers and Names (ICANN)
-What does WAN stand for?|wide area network
+What does LAN stand for?|Local Area Network
 A ________________________ is a computer that is in charge of handling resource requests from multiple computers.|server
-The Request-Response Cycle...|may require several iterations of the Request-Response Cycle.
+A single web page may require several iterations of the Request-Response Cycle.|True
 HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements.|tags
-The original web was developed|as a way for scientists to exchange information
-The first graphical browser was.... (please use one word answer)|netscape
+The original developers of HTML were opposed to the addition of tags for graphical images.|True
+The first graphical browser was.... (please use one word answer)|Mosaic
 What are proprietary tags?|Tags that work only on certain browsers
 Which of these tags breaks the tenet of the separation of content and layout?|center
 Which of the following are browsers?|Safari, Chrome, Edge
 A basic functionality of browsers is to translate HTML documents into viewable webpages.|True
 Which version of HTML introduced semantic tags?|HTML 5
-You should write your code using the Sublime editor if you want an easy way for others to see your webpage.|False
+Which of the editors below has the most built-in functionality for creating .html files?|Sublime
 Which of the following is an Integrated Development Environment?|Replit
-Which of the following filename is using camel case?|myFirstFile.html
+Which of the following should you avoid when naming your files ?|Using spaces in a file name.
 What editor are you using?|ccc
 What browser(s) are you using?|ccc
