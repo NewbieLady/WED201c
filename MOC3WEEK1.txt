@@ -21,3 +21,9 @@ The W3C Web Content Accessibility Guidelines are based on the latest technology.
 The Wave validator will detect if you have bad color contrast on your page.|True
 How well are people validating their code? Type the URL of some of your favorite sites into https://validator.w3.org/ . What types of errors do you see the most often?|vcxvxcvxcvxcv
 Submit the URLs again to the accessibility checker at https://wave.webaim.org/ . Do you see more or less errors than the w3 validator?|xcvxcvxcvxcv
+The Request-Response Cycle...|may require several iterations of the Request-Response Cycle.
+Which of the following filename is using camel case?|myFirstFile.html
+The img tag has how many required attributes to display an accessible image?|2
+You should use the alt attribute on icons.|False
+An absolute reference includes the URL protocol in the href.|True
+Adherence to standards is important when trying to improve accessibility.|True
