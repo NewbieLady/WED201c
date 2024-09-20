@@ -38,3 +38,6 @@ All HTML elements can have attributes.|True
 Whitespace added to an HTML document between span-level elements will generally be ignored by the browser and are not added to increase spacing on the rendered HTML page.|True
 Which semantic tag is used to identify a group of introductory or navigational aids: title, navigation links, etc. ?|header
 Which HTML attribute specifies descriptive text for an image if the image cannot be displayed? (Select all that apply.)|alt
+Which element creates a numbered list?|ol
+What is the lowest level HTML heading element?|h6
+A relative reference includes the URL protocol in the href.|False
