@@ -24,3 +24,6 @@ Which CSS3 property is used to center text? (We are only asking about the proper
 Using the style attribute allows you to style many pages with only a few lines of code.|False
 When creating a CSS rule you need to specify the selector, property, and _______.|value
 Which of the following is NOT an option for specifying a color in CSS3?|All of these options are valid.
+The default display value for the <a> element is:|inline
+The link to the external style sheet should be in the:|Meta-data - <head>
+When creating a CSS rule you need to specify the _______, property, and value.|selector
