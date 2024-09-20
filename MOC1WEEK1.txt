@@ -25,3 +25,8 @@ Which of the following is an Integrated Development Environment?|Replit
 Which of the following should you avoid when naming your files ?|Using spaces in a file name.
 What editor are you using?|ccc
 What browser(s) are you using?|ccc
+If you use HTML5 tags correctly, your pages will be rendered identically on any browser.|False
+An HTML5 tag will always have the same semantic meaning, regardless of the browser being used.|True
+The Internet is a type of:|Wide Area Network
+You should write your code using the Sublime editor if you want an easy way for others to see your webpage.|False
+Which of the following filename is using camel case?|myFirstFile.html
