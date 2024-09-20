@@ -30,3 +30,8 @@ An HTML5 tag will always have the same semantic meaning, regardless of the brows
 The Internet is a type of:|Wide Area Network
 You should write your code using the Sublime editor if you want an easy way for others to see your webpage.|False
 Which of the following filename is using camel case?|myFirstFile.html
+Which of the following is an example of a top-level domain?|.biz
+The Request-Response Cycle...|may require several iterations of the Request-Response Cycle.
+The original web was developed|as a way for scientists to exchange information
+Which of these tags breaks the tenet of the separation of content and layout?|font
+Which of the following are browsers?|Chrome, Firefox, Safari
