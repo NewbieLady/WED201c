@@ -23,3 +23,4 @@ Assume the following rule is the only one that styles the body element: 1 2 3 bo
 Which CSS3 property is used to center text? (We are only asking about the property name; not the value.)|text-align
 Using the style attribute allows you to style many pages with only a few lines of code.|False
 When creating a CSS rule you need to specify the selector, property, and _______.|value
+Which of the following is NOT an option for specifying a color in CSS3?|All of these options are valid.
