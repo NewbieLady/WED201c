@@ -27,3 +27,9 @@ The img tag has how many required attributes to display an accessible image?|2
 You should use the alt attribute on icons.|False
 An absolute reference includes the URL protocol in the href.|True
 Adherence to standards is important when trying to improve accessibility.|True
+If you use HTML5 tags correctly, your pages will be rendered identically on any browser.|False
+Which of the following is part of a URL?|domain (or host) and protocol
+HTML5 headings come in how many different rankings?|6
+Which element creates a bulleted list?|ul
+It is possible to check your html file in the W3 validator even if it is not hosted on the internet.|True
+In addition to being the right thing to do, efforts to create an accessible site will also improve your Search Engine Optimization.|True
