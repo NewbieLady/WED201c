@@ -34,3 +34,7 @@ The img tag has how many required attributes to display an accessible image?|2
 It is better to skip the alt attribute altogether than include an empty alt attribute (alt = "").|False
 You should use the alt attribute on icons.|False
 An absolute reference includes the URL protocol in the href.|True
+All HTML elements can have attributes.|True
+Whitespace added to an HTML document between span-level elements will generally be ignored by the browser and are not added to increase spacing on the rendered HTML page.|True
+Which semantic tag is used to identify a group of introductory or navigational aids: title, navigation links, etc. ?|header
+Which HTML attribute specifies descriptive text for an image if the image cannot be displayed? (Select all that apply.)|alt
