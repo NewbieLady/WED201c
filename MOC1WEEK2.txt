@@ -18,3 +18,8 @@ Using an external stylesheet allows you to update the style of many pages with o
 When creating a CSS rule you need to specify the selector, _______, and value.|property
 You can use the Inspect Element tool in your browser to see your CSS rules.|True
 CSS stands for Cascading Style Sheets. This is because the webpage style can come from many different sources.|True
+What is wrong with the following code? 1 2 3 4 5 body{ color: #000000; background-color:#FFFFFF font-family: Times, Arial, Cursive; }|There is a missing semicolon
+Assume the following rule is the only one that styles the body element: 1 2 3 body{ font-family: Cursive, Helvetica, Verdana; } What happens if the browser doesn't support Cursive or Helvetica?|The text will be displayed in Verdana
+Which CSS3 property is used to center text? (We are only asking about the property name; not the value.)|text-align
+Using the style attribute allows you to style many pages with only a few lines of code.|False
+When creating a CSS rule you need to specify the selector, property, and _______.|value
