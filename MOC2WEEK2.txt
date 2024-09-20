@@ -18,3 +18,9 @@ Descendant selectors nav a{ .... } are more general than child selectors nav>a{ 
 Which property will set the number of columns in an element that is using grid?|grid-template-columns
 If you use display:grid your elements will resize automatically to fit the screen width.|False
 Which property will set the number of horizontal elements in an element that is using flex?|You can't set the number of columns since they will be set based on the browser window size.
+This is probably a typo, why? 1 #h1{ color: green; }|The # in front of the word h1 means the browser will look for a id called h1, not the h1 element.
+A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page.|True
+Assume that this code is linked together correctly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 p{ color: yellow; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } 1 <p>Hi</p> What color font is used to display "Hi"?|yellow
+Assume that this code is linked together correctly. 12 13 14 15 .plain{ font-family: Times, serif; color: black; } 1 <p class = "plain fancy">Hi</p> What color font is used to display "Hi"?|green
+Assume that this code is linked together correctly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 p{ color: red; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } 1 <p class = "fancy plain">Hi</p> What color font is used to display "Hi"?|black
+A default style sheet is used to:|Eliminate differences in browser default styling.
