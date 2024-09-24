@@ -23,3 +23,5 @@ How much vertical space ("height") will this div use? 1 2 3 4 5 6 div{ height:50
 Which of the following would be used to create an id called button which has a width of 750px, a height of 30px and the color of the text is black?|5 }
 How much width will this div occupy? 1 2 3 4 5 6 div{ width:100px; padding: 10px; margin: 5px; border: 2px; }|134px
 In the following code snippet, what value is given for the left margin? margin: 5px 10px 3px 8px;|8px
+If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?|sticky
+Assume that this code is linked together correctly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 p{ color: red; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } 1 <p class = "fancy plain">Hi</p> What color font is used to display "Hi"?|black
