@@ -23,3 +23,4 @@ In JavaScript, the this keyword refers to a(n):|Object
 One of the events that the JavaScript API will listen for is onpagereload.|False
 Which is the correct syntax to change the contents of the HTML element below? <p id = "quiz">This is a quiz. </p>|document.querySelector('#quiz').innerHTML = "New content!";
 One of the events that the JavaScript API will listen for is onmouseclick.|False
+One of the events that the JavaScript API will listen for is onresize.|True
