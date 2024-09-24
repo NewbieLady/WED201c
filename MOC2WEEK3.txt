@@ -12,3 +12,7 @@ Consider the following code: 1 2 3 4 <body> <p> This is paragraph one </p> <p on
 What is syntactically wrong with this function definition? 4 }|The semicolon after Hello()
 The following is valid JavaScript code: <button onclick="this.style.display='none'">Click to Remove Me!</button>|True
 The following is valid JavaScript code: <button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>|True
+Where can you put JavaScript?|In A), B) and C) above
+Which of the following best defines the relationship between defining a function and calling a function?|A function can be called multiple times in a single file.
+What is syntactically wrong with this function definition? 1 2 3 4 function Hello();{ alert("Hello"); document.write("Hello on the screen"); }|The semicolon after Hello()
+Which is the correct syntax to change the contents of the HTML element below? <p id = "quiz">This is a quiz. </p>|document.getElementById('quiz').innerHTML = "New content!";
