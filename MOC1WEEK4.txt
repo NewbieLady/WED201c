@@ -14,3 +14,6 @@ If you have an element with the font size of 15px, and a child element inside wi
 Which of the following measurements is relative to the size of its parent element?|em
 Which measurement is easier and comfortable for the designer/ developer to use when coding their CSS but does not provide the best experience for the user?|px
 In tech when something is "deprecated" it means|software developers are no longer actively supporting it, so its use is discouraged.
+Which fluid measurement type returns a percentage of the viewport width?|vw
+The mobile version of your web page should have the same capabilities of every other version of your site.|True
+Which fluid measurement type returns a percentage of the viewport height?|vh
