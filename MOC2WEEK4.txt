@@ -16,3 +16,6 @@ You can add as many breakpoints as you want.|True
 Breakpoints often correspond with common screen sizes for phones, tablets, and laptops, but it is not necessary.|True
 Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 750px screen?|25%
 Consider the following CSS rule: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media print { div{ width: 25%; } } Which of the following is a true statement?|The div elements will have a width of 25% only when the page is printed
+Which of the following should you NOT do when creating a responsive page?|Use large fixed width elements.
+When designing mobile first you should use max-width in your media query.|False
+When modifying your layout from small screen to larger screen it is common to go from a vertical to horizontal layout for your navigation.|True
