@@ -30,3 +30,6 @@ Consider the following code using Bootstrap: 1 <div class = "col-sm-2 col-lg-4">
 The Bootstrap grid system is based on how many columns?|12
 The default value for (prefers-reduced-motion) without is "reduce".|True
 The possible values for the prefers-contrast CSS media feature include light and dark.|False
+Which fluid measurement type returns a percentage of the viewport width?|vw
+If you have an element with the font size of 18px, and a child element inside with a font-size set to .5em, what is the font size of the child in px? (Provide a number only, not the measurement too.)|9
+Consider the following code using Bootstrap: 1 <div class = "col-md-3 col-lg-7"> In a sm viewport the div will be _____ columns wide.|12
