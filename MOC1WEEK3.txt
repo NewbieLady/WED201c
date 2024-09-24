@@ -29,3 +29,6 @@ Boolean variables store either true or false.|True
 What value is returned by 17 % 5?|2
 What is the difference between == and === ?|The == operator only checks for equivalent values, not equivalent type too.
 What is the logical operator for OR?|||
+JavaScript can remove existing HTML elements and attributes|True
+Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)|document.getElementsById(idName)
+In JavaScript the keywords def is used to declare a variable.|False
