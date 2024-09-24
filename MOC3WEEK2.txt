@@ -18,3 +18,8 @@ In the following code snippet, what value is given for the right margin? margin:
 Which of the following would be used to create an id called button which has a width of 750px, a height of 30px and the color of the text is black?|4 5 color: black; }
 How much width will this div occupy? 6 }|134px
 In the following code snippet, what value is given for the bottom margin? margin: 5px 10px 3px 8px;|3px
+What is wrong with this code? 1 2 3 4 div{ position: static; left: 10px; }|The code works, but the left property is not necessary since static elements don't allow offsets
+How much vertical space ("height") will this div use? 1 2 3 4 5 6 div{ height:50px; padding: 5px 10px; margin: 5px; border: 2px; }|74px
+Which of the following would be used to create an id called button which has a width of 750px, a height of 30px and the color of the text is black?|5 }
+How much width will this div occupy? 1 2 3 4 5 6 div{ width:100px; padding: 10px; margin: 5px; border: 2px; }|134px
+In the following code snippet, what value is given for the left margin? margin: 5px 10px 3px 8px;|8px
