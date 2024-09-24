@@ -16,3 +16,7 @@ Where can you put JavaScript?|In A), B) and C) above
 Which of the following best defines the relationship between defining a function and calling a function?|A function can be called multiple times in a single file.
 What is syntactically wrong with this function definition? 1 2 3 4 function Hello();{ alert("Hello"); document.write("Hello on the screen"); }|The semicolon after Hello()
 Which is the correct syntax to change the contents of the HTML element below? <p id = "quiz">This is a quiz. </p>|document.getElementById('quiz').innerHTML = "New content!";
+Which keyword is used to define a function in JavaScript?|function
+You can define a function without calling it.|True
+One of the events that the JavaScript API will listen for is onclick.|True
+In JavaScript, the this keyword refers to a(n):|Object
