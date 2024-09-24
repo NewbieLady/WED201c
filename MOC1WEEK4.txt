@@ -19,3 +19,5 @@ The mobile version of your web page should have the same capabilities of every o
 Which fluid measurement type returns a percentage of the viewport height?|vh
 The fluid measurement % can only be used on non-textual elements|False
 When defining a measurement whitespace you must include the unit - even when the measurement is 0.|False
+1 _____ = 1% of viewport height|vh
+If you have an element with the font size of 18px, and a child element inside with a font-size set to .5em, what is the font size of the child in px? (Provide a number only, not the measurement too.)|9
