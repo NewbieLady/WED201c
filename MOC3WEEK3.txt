@@ -17,3 +17,8 @@ How do you properly access the third element in an array variable named "fruit"?
 var my_array = [2, 4, 6, 8, 10] What is the value of my_array.length ?|5
 Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)|var my_array = document.getElementById(idName) first_element = my_array[0]
 How do you properly access the first element in an array variable named "fruit"|fruit[0]
+JavaScript Arrays are Objects.|True
+Array values are separated by commas.|True
+Every element in an array must be a numeric value.|False
+What is the index of the element with the value of 10? 12 45 32 56 1 12 10|
+var my_array = [2, 4, 6, 8, 10] What is the value of my_array[2] ?|6
