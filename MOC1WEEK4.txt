@@ -17,3 +17,5 @@ In tech when something is "deprecated" it means|software developers are no longe
 Which fluid measurement type returns a percentage of the viewport width?|vw
 The mobile version of your web page should have the same capabilities of every other version of your site.|True
 Which fluid measurement type returns a percentage of the viewport height?|vh
+The fluid measurement % can only be used on non-textual elements|False
+When defining a measurement whitespace you must include the unit - even when the measurement is 0.|False
