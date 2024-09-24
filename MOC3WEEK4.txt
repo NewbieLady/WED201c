@@ -17,3 +17,11 @@ Every major web browser supports reduce-motion, including Chrome, Edge, Firefox,
 The best way to improve accessibility on your page is to eliminate all animation.|False
 The possible values for the prefers-contrast CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer - prefers-contrast - CSS: Cascading Style Sheets | MDN .)|True
 The possible values for the prefers-color-scheme CSS media feature include light and dark.|True
+Responsive sites can have a mixture of fluid and absolute measurements.|True
+When defining a measurement whitespace you must include the unit - even when the measurement is 0.|False
+Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 10 div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 350px screen?|80%
+Consider the following CSS rules: 1 2 3 4 5 6 7 8 div{ width: 80%; } @media print { div{ width: 25%; } } Which of the following is a true statement?|The div elements will have a width of 25% only when the page is printed
+Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 750px screen?|25%
+Consider the following code using Bootstrap: 1 <div class = "col-md-3 col-lg-7"> In a md viewport the div will be _____ columns wide.|3
+Bootstrap is mobile-first.|True
+The possible values for the prefers-contrast CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer - prefers-contrast - CSS: Cascading Style Sheets | MDN .)|True
