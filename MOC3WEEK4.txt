@@ -25,3 +25,8 @@ Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media al
 Consider the following code using Bootstrap: 1 <div class = "col-md-3 col-lg-7"> In a md viewport the div will be _____ columns wide.|3
 Bootstrap is mobile-first.|True
 The possible values for the prefers-contrast CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer - prefers-contrast - CSS: Cascading Style Sheets | MDN .)|True
+If you have an element with the font size of 24px, and a child element inside with a font-size set to .5em, what is the font size of the child in px? (Provide a number only, not the measurement too.)|12
+Consider the following code using Bootstrap: 1 <div class = "col-sm-2 col-lg-4"> In an xs viewport the div will be _____ columns wide.|12
+The Bootstrap grid system is based on how many columns?|12
+The default value for (prefers-reduced-motion) without is "reduce".|True
+The possible values for the prefers-contrast CSS media feature include light and dark.|False
