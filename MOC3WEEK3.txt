@@ -14,3 +14,6 @@ When declaring an array Spaces and line breaks are important. A declaration can 
 Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)|var my_array = document.querySelector(#idName) first_element = my_array[0]
 If your browser supports debugging, you can use which of the following to display JavaScript values in the debugger window:|console.log
 How do you properly access the third element in an array variable named "fruit"?|None of the above
+var my_array = [2, 4, 6, 8, 10] What is the value of my_array.length ?|5
+Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)|var my_array = document.getElementById(idName) first_element = my_array[0]
+How do you properly access the first element in an array variable named "fruit"|fruit[0]
