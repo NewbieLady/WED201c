@@ -22,3 +22,10 @@ Which of the following is not a valid operator?|=+
 What value is returned by 9 % 5?|4
 What is the logical operator for AND?|&&
 If your browser supports debugging, you can use which of the following to display JavaScript values in the debugger window:|console.log
+When a web page is loaded, the browser creates a Document Object Model of the page.|True
+document.getElementById(idName) and document.querySelector(#idName) both return a single element.|True
+In JavaScript the keywords let and var are used to declare a variable.|True
+Boolean variables store either true or false.|True
+What value is returned by 17 % 5?|2
+What is the difference between == and === ?|The == operator only checks for equivalent values, not equivalent type too.
+What is the logical operator for OR?|||
